@@ -97,6 +97,10 @@ header.main-header {
     box-shadow: 0 4px 20px rgba(0,0,0,0.1);
 }
 
+.main-header .container {
+    max-width: 100%;
+}
+
 .navbar {
     display: flex;
     justify-content: space-between;
